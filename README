@@ -1,3 +1,3 @@
-This is a simple Java ray tracer program which can render triangles and spheres.
+This is a simple Java ray tracer program which can render triangles and spheres. To run this program execute the main method of the "MainGUI.java" file.
 
 I initially made this as a school project at Georgia Tech for CS 3451 class in Spring 2010 as a Processing program. Following the conclusion of the course I converted the project to Java and added a Swing GUI.
