@@ -43,7 +43,7 @@ public class RayTracerCanvas extends Canvas implements Observer {
 	
 	public boolean saveImage(File filepath, String format) {
 		try {
-			return ImageIO.write(image, format, filepath);
+			return ImageIO.write(image, "png", new File(""));
 		} catch (IOException e) {
 			//e.printStackTrace();
 			return false;
